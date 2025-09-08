@@ -2,7 +2,7 @@
   "name": "obsidian-code-sync",
   "displayName": "Obsidian Code Sync",
   "description": "Extension to sync code files with Obsidian notes.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.75.0"
   },
