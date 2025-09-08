@@ -3,15 +3,15 @@
 Seamlessly save your code files from VS Code directly to your Obsidian vault as beautifully formatted Markdown documents. Perfect for building a personal code knowledge base, documentation, or learning journal.
 
 ## Features
-![VS Code](https://raw.githubusercontent.com/FinnLeh/vscode-obsidian-sync/main/images/vsCode_screenshot.png)
+![VS Code](images/vsCode_screenshot.png)
 
-![Obsidian Markdown](https://raw.githubusercontent.com/FinnLeh/vscode-obsidian-sync/main/images/Obsidian_screenshot.png)
+![Obsidian Markdown](images/Obsidian_screenshot.png)
 
 
 ### 📝 One-Click Save to Obsidian
 Save any code file to your Obsidian vault with a single keyboard shortcut (`Ctrl+Alt+O` / `Cmd+Alt+O`) or click the save button in the editor toolbar.
 
-![Save to Obsidian](https://raw.githubusercontent.com/FinnLeh/vscode-obsidian-sync/main/images/feature-save.png)
+![Save to Obsidian](images/feature-save.png)
 
 ### 🔄 Auto-Sync on Save
 Enable automatic syncing to keep your Obsidian vault always up-to-date. Every time you save a file in VS Code, it's automatically synced to your vault.
