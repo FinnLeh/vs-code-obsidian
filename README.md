@@ -3,13 +3,12 @@
 Convert your code files into beautifully formatted Markdown documents with syntax highlighting. While primarily designed for Obsidian vaults, this extension works as a general-purpose code-to-markdown converter for any markdown-based documentation system, knowledge base, or note-taking app.
 
 ## Features
+![VS Code](https://raw.githubusercontent.com/FinnLeh/vs-code-obsidian/master/images/vsCode_screenshot.png)
 
-![VS Code](https://raw.githubusercontent.com/FinnLeh/vscode-obsidian-sync/main/images/vsCode_screenshot.png)
-
-![Obsidian Markdown](https://raw.githubusercontent.com/FinnLeh/vscode-obsidian-sync/main/images/Obsidian_screenshot.png)
+![Obsidian Markdown](https://raw.githubusercontent.com/FinnLeh/vs-code-obsidian/master/images/Obsidian_screenshot.png)
 
 ### 📝 One-Click Save to Markdown
-![Save to Obsidian](https://raw.githubusercontent.com/FinnLeh/vscode-obsidian-sync/main/images/feature_save.png)
+![Save to Obsidian](https://raw.githubusercontent.com/FinnLeh/vs-code-obsidian/master/images/feature_save.png)
 
 Save any code file as a formatted Markdown document with a single keyboard shortcut (`Ctrl+Alt+O` / `Cmd+Alt+O`) or click the save button in the editor toolbar.
 
