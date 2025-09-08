@@ -9,9 +9,9 @@ Seamlessly save your code files from VS Code directly to your Obsidian vault as 
 
 
 ### 📝 One-Click Save to Obsidian
-Save any code file to your Obsidian vault with a single keyboard shortcut (`Ctrl+Alt+O` / `Cmd+Alt+O`) or click the save button in the editor toolbar.
+![Save to Obsidian](images/feature_save.png)
 
-![Save to Obsidian](images/feature-save.png)
+Save any code file to your Obsidian vault with a single keyboard shortcut (`Ctrl+Alt+O` / `Cmd+Alt+O`) or click the save button in the editor toolbar.
 
 ### 🔄 Auto-Sync on Save
 Enable automatic syncing to keep your Obsidian vault always up-to-date. Every time you save a file in VS Code, it's automatically synced to your vault.
