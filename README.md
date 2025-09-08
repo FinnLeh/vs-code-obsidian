@@ -93,7 +93,6 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 ```
-```
 
 This markdown format is compatible with:
 - Obsidian
@@ -125,7 +124,7 @@ Initial release with core features:
 
 ## Contributing
 
-Found a bug or have a feature request? Please open an issue on [GitHub](https://github.com/FinnLeh/vscode-obsidian-sync/issues).
+Found a bug or have a feature request? Please open an issue on [GitHub](https://github.com/FinnLeh/vscode-obsidian/issues).
 
 Pull requests are welcome! Ideas for contributions:
 - Additional output formats
